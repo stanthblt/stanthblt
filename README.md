@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an IT student, currently at the Ynov Campus in Bordeaux.<br>I've been passionate about computing since I was very young.<br>I've worked on a number of personal projects involving robotics, <br>home automation, programming and web development.
+<p align="center">I'm an IT student, currently at the Ynov Campus in Bordeaux.<br>I've been passionate about computing since I was very young.<br>I've worked on a number of personal projects involving robotics, <br>home automation, programming and web development.</p>
 
 
 # 💻 Tech Stack:
